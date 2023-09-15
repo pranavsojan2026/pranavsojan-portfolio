@@ -1,0 +1,18 @@
+-- import: fastn
+
+-- fastn.package: pranavsojan2026.github.io/pranavsojan
+favicon: /-/pranavsojan2026.github.io/pranavsojan/favicon.ico
+
+-- fastn.dependency: fastn-community.github.io/doc-site as doc-site
+-- fastn.dependency: fastn-community.github.io/footer
+-- fastn.dependency: fastn-community.github.io/roboto-typography
+-- fastn.dependency: shaheen-senpai.github.io/fastn-cs-tail
+-- fastn.dependency: sarvom.github.io/holy-angel-typography
+-- fastn.dependency: fastnui.trizwit.com
+
+
+
+-- fastn.auto-import: pranavsojan2026.github.io/pranavsojan/FASTN/ds
+-- fastn.auto-import: pranavsojan2026.github.io/pranavsojan/assets
+-- fastn.auto-import: doc-site
+

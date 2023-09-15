@@ -1,0 +1,27 @@
+-- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
+-- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 
+-- import: pranavsojan2026.github.io/pranavsojan/lib
+
+-- lib.page:
+
+-- lib.header:
+logo: $assets.files.assets.logo.jpg
+logo-text: Portfolio
+cta-text-1: Home
+cta-text-2: About
+cta-text-3: Resume
+cta-text-1-url: index.html
+cta-text-2-url: index.html
+cta-text-3-url: index.html
+
+-- hero-1.hero-1: I'm Pranav Sojan
+cta-button-1: Resume
+link-1: https://www.resume.com/
+cta-button-2: Schedule Meeting
+link-2: https://calendly.com/
+cover: $assets.files.assets.pranav.jpg
+
+I'm a BTech Computer Science student studying at St.Joseph's College of Engineering and Technology.Actively learning frontend development and programming.
+
+
+-- end: lib.page
